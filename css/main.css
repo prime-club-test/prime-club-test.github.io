@@ -2083,7 +2083,7 @@ html[data-useragent*='MSIE 10.0'] .scrolldown,
   z-index: 1;
 }
 .bricks-wrapper .item-wrap .overlay::after {
-  content: "";
+  content: "...";
   font-family: georgia, serif;
   font-size: 3rem;
   z-index: 1;
