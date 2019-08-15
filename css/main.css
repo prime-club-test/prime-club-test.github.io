@@ -2655,7 +2655,7 @@ html[data-useragent*='MSIE 10.0'] .scrolldown,
   margin-top: .6rem;
 }
 #contact button.submitform:hover, #contact button.submitform:focus {
-  background: #f89e0f;
+  background: #ffffff;
 }
 
 #message-warning, #message-success {
